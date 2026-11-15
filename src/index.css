@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1e3a8a; /* Azul marinho corporativo forte */
+  --color-secondary: #0f172a; /* Slate escuro */
+  --color-accent: #d97706; /* Tom dourado elegante para detalhes */
+}
+
+html {
+  scroll-behavior: smooth;
+}
