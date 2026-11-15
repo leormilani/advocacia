@@ -48,7 +48,7 @@ Certifique-se de ter o **Node.js** instalado em sua máquina. No terminal, execu
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/leormilani/seu-repositorio.git](https://github.com/leormilani/seu-repositorio.git)
+git clone [https://github.com/leormilani/.git](https://github.com/leormilani/advocacia.git)
 
 # 2. Acesse a pasta do projeto
 cd escritorio-advocacia
